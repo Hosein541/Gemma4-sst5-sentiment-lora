@@ -107,6 +107,7 @@ Review:
 | **Weighted Average** | **0.60** | **0.60** | **0.60** | 250 |
 
 ### Confusion Matrix
+![Confusion Matrix](assests/confusion_matrix.png)
 
 ---
 
@@ -117,8 +118,9 @@ Review:
 Clone the repository and install requirements:
 
 ```bash
-git clone [[https://github.com/](https://github.com/)/.git](https://github.com/Hosein541/gemma4-sst5-sentiment-lora.git)
+git clone https://github.com/Hosein541/gemma4-sst5-sentiment-lora.git
 cd gemma4-sst5-sentiment-lora
+
 pip install -r requirements.txt
 
 ```
