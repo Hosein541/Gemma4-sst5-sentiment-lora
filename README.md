@@ -28,7 +28,7 @@ Instead of traditional sequence classification heads, this project frames the ta
 
 ## 📊 Dataset & Formatting
 
-The model was trained on the [SetFit/sst5](https://www.google.com/search?q=https%3A%2F%2Fhuggingface.co%2Fdatasets%2FSetFit%2Fsst5) dataset:
+The model was trained on the [SetFit/sst5](https://huggingface.co/datasets/SetFit/sst5) dataset:
 
 * **Classes**:
 * `0`: Very Negative
