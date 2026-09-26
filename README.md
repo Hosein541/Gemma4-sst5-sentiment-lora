@@ -1,3 +1,4 @@
+```markdown
 # 🎬 Fine-Grained Sentiment Classification on SST-5 using Gemma & LoRA
 
 An efficient instruction-tuning pipeline for **5-class fine-grained sentiment analysis** (Very Negative to Very Positive) on the Stanford Sentiment Treebank (SST-5) dataset, leveraging **Gemma (2B)**, **LoRA (PEFT)**, and accelerated via **Unsloth**.
