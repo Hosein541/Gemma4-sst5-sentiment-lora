@@ -117,8 +117,8 @@ Review:
 Clone the repository and install requirements:
 
 ```bash
-git clone [https://github.com/](https://github.com/)/.git
-cd 
+git clone [[https://github.com/](https://github.com/)/.git](https://github.com/Hosein541/gemma4-sst5-sentiment-lora.git)
+cd gemma4-sst5-sentiment-lora
 pip install -r requirements.txt
 
 ```
