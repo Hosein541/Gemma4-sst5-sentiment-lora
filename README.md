@@ -130,7 +130,7 @@ pip install -r requirements.txt
 ```text
 ├── assets/
 │   └── confusion_matrix.png        # Evaluation confusion matrix plot
-├── Gemma_SST5_LoRA.ipynb       # Complete training and evaluation notebook
+├── Gemma_SST5_LoRA.ipynb           # Complete training and evaluation notebook
 ├── requirements.txt                # Pinned dependencies
 └── README.md                       # Documentation
 
@@ -144,8 +144,5 @@ pip install -r requirements.txt
 * [Unsloth AI](https://github.com/unslothai/unsloth) for low-overhead fine-tuning and fast patching.
 * [TRL](https://github.com/huggingface/trl) for the Supervised Fine-Tuning (SFT) implementation.
 
-```
-
-```
 
 ---
