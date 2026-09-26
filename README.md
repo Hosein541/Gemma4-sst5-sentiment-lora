@@ -118,8 +118,8 @@ Review:
 Clone the repository and install requirements:
 
 ```bash
-git clone https://github.com/Hosein541/gemma4-sst5-sentiment-lora.git
-cd gemma4-sst5-sentiment-lora
+git clone https://github.com/Hosein541/Gemma4-sst5-sentiment-lora.git
+cd Gemma4-sst5-sentiment-lora
 
 pip install -r requirements.txt
 
